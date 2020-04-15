@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Joey Steinberger',
+  subtitle: 'An unordered collection of my thoughts',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -25,25 +25,15 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Joey Steinberger',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Software Engineer who likes to make fun things',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '',
-      vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
-      line: '',
-      gitlab: '',
-      weibo: '',
-      codepen: '',
-      youtube: '',
-      soundcloud: '',
+      email: 'joey.steinberger@gmail.com',
+      twitter: 'https://twitter.com/Woofwoofwoo',
+      github: 'https://github.com/Josamuel',
+      linkedin: 'https://www.linkedin.com/in/joey-steinberger/',
+      instagram: 'https://www.instagram.com/joeysteinberger/',
     }
   }
 };
