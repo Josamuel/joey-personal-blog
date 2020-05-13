@@ -1,5 +1,6 @@
 'use strict';
 
+
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
