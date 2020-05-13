@@ -27,13 +27,13 @@ module.exports = {
   author: {
     name: 'Joey Steinberger',
     photo: '/photo.jpg',
-    bio: 'Software Engineer who likes to make fun things',
+    bio: 'Software Engineer. Tinkerer. Doing my thing 😎',
     contacts: {
       email: 'joey.steinberger@gmail.com',
-      twitter: 'https://twitter.com/Woofwoofwoo',
-      github: 'https://github.com/Josamuel',
-      linkedin: 'https://www.linkedin.com/in/joey-steinberger/',
-      instagram: 'https://www.instagram.com/joeysteinberger/',
+      twitter: 'joeyeojoey',
+      github: 'Josamuel',
+      linkedin: 'joey-steinberger/',
+      instagram: 'joeysteinberger/',
     }
   }
 };
